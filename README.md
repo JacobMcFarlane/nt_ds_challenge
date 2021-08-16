@@ -1,4 +1,8 @@
 # RECS KWH Prediction Challenge
+## About
+
+This jupyter book uses a subset of the RECS survey data to predict KWH yearly usage.
+
 ## Installation
 Follow the instructions for your OS here to install Conda 
 https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
